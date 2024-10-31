@@ -1,0 +1,1 @@
+[05-Feb-2009 21:30:57] PHP Fatal error:  Call to undefined function  add_action() in /home1/laullonc/public_html/ftblg/wp-content/mu-plugins/photoblog/dashboard.php on line 3
